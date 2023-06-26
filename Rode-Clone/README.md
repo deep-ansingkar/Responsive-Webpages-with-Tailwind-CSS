@@ -2,7 +2,7 @@
 
 This repository contains a clone of the popular Microphone Company Website, built using HTML and Tailwind CSS. The project aims to replicate the user interface and functionalities of RODE, providing a seamless experience for users.
 
-## [Deployed link]()
+## [Deployed link](https://rodeclone-justforeducational-purpose.netlify.app/)
 
 ## Features
 - User-friendly interface
