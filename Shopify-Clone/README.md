@@ -2,7 +2,7 @@
 
 This repository contains a clone of the popular E-commerce company, built using HTML and Tailwind CSS. The project aims to replicate the user interface and functionalities of Shopify, providing a seamless experience for users. The UI of E-commerce wesite changes a lot, so this was the UI of August 2022.
 
-## [Deployed link]()
+## [Deployed link](https://shopifyclone-foreducational-purpose.netlify.app/)
 
 ## Features
 - User-friendly interface
